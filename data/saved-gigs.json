@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1751796619029ioie3j4ub",
+    "title": "Design Storytelling Thumbnails",
+    "niche": "Graphic Design",
+    "description": "Professional Design Storytelling Thumbnails service in the Graphic Design niche. I will deliver high-quality work that exceeds your expectations. With years of experience in Graphic Design, I understand what it takes to create outstanding results. My service includes comprehensive research, creative execution, and unlimited revisions until you're 100% satisfied. I work with businesses of all sizes and have helped hundreds of clients achieve their goals. Fast delivery, professional communication, and exceptional quality guaranteed.",
+    "reviews": [
+      {
+        "name": "Sarah Johnson",
+        "rating": 5,
+        "feedback": "Amazing work! The design storytelling thumbnails exceeded my expectations. Professional, fast, and exactly what I needed for my Graphic Design business. Will definitely work with them again!"
+      },
+      {
+        "name": "Michael Chen",
+        "rating": 4,
+        "feedback": "Great quality work and good communication throughout the project. The final result was professional and well-executed. Minor revisions were handled quickly."
+      },
+      {
+        "name": "Emma Rodriguez",
+        "rating": 5,
+        "feedback": "Outstanding service! They really understand the Graphic Design industry and delivered exactly what I was looking for. Highly recommended for anyone needing design storytelling thumbnails."
+      }
+    ],
+    "pricing": {
+      "basic": {
+        "title": "Starter Package",
+        "price": 15,
+        "description": "Basic design storytelling thumbnails with standard features",
+        "deliveryTime": "3 days",
+        "revisions": 1
+      },
+      "standard": {
+        "title": "Professional Package",
+        "price": 35,
+        "description": "Enhanced design storytelling thumbnails with premium features and faster delivery",
+        "deliveryTime": "2 days",
+        "revisions": 3
+      },
+      "premium": {
+        "title": "Premium Package",
+        "price": 65,
+        "description": "Complete design storytelling thumbnails solution with all features, priority support, and express delivery",
+        "deliveryTime": "1 day",
+        "revisions": 5
+      }
+    },
+    "thumbnails": [
+      "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg",
+      "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg",
+      "https://images.pexels.com/photos/3184293/pexels-photo-3184293.jpeg"
+    ],
+    "generatedAt": "2025-07-06T10:09:41.087Z",
+    "savedAt": "2025-07-06T10:10:19.029Z"
+  }
+]
